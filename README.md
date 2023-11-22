@@ -1,3 +1,3 @@
 # my-personal-autohotkey-scripts
 
-### My useful autohotkey scripts 😃
+### Simple autohotkey scripts for simple things 😃
