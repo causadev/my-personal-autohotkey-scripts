@@ -14,4 +14,4 @@ SetWinDelay, -1
 SetControlDelay, -1
 SendMode Input
 
-t::xbutton2
+e::xbutton2
